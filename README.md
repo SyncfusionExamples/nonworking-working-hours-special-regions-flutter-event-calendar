@@ -1,2 +1,2 @@
-# nonworking-working-hours-special-regions-flutter-event-calendar
-How to highlight the working and non-working hours in the Flutter event calendar (SfCalendar)?
+**[View document in Syncfusion Flutter Knowledge base](https://www.syncfusion.com/kb/11711/how-to-highlight-the-working-and-non-working-hours-in-the-flutter-event-calendar-sfcalendar)**
+
