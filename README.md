@@ -6,7 +6,10 @@ Using the Calendar's [specialRegions](https://help.syncfusion.com/flutter/calend
 
 In this sample, using the recurrence rule property of the time region the time regions are added on the working and non working hours in the Flutter Calendar.
 
+![WorkingNonWorking](https://user-images.githubusercontent.com/46158936/209321196-f4a0e27a-a10d-4f10-bf4c-79703a29ea7a.gif)
+
 For more details , you can refer to our [KB](https://www.syncfusion.com/kb/11711/how-to-highlight-the-working-and-non-working-hours-in-the-flutter-calendar) documentation.
+
 ## Requirements to run the demo
 * [VS Code](https://code.visualstudio.com/download)
 * [Flutter SDK v1.22+](https://flutter.dev/docs/development/tools/sdk/overview)
