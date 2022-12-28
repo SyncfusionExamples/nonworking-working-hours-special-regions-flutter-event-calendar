@@ -1,4 +1,4 @@
-package com.example.flutter_work_nonwork
+package com.example.nonworking_working_hours
 
 import io.flutter.embedding.android.FlutterActivity
 
